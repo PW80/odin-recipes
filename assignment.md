@@ -1,21 +1,21 @@
 # Assignment
 
-<table>
-<tr>
-<td>
-<a href="https://www.theodinproject.com">
-<img src="https://www.theodinproject.com/mstile-310x310.png" alt="The Odin Project Logo" height="50" width="50">
-</a>
-</td>
-<td>
+> <table>
+> <tr>
+> <td>
+> <a href="https://www.theodinproject.com">
+> <img src="https://www.theodinproject.com/mstile-310x310.png" alt="The Odin Project Logo" height="50" width="50">
+> </a>
+> </td>
+> <td>
 
-> *The following text is taken directly from the [TheOdinProject](https://www.theodinproject.com). It is provided under
-> a [Creative Commons License](https://github.com/TheOdinProject/curriculum/blob/main/license.md) which restricts it to
-> non-commercial use without prior authorization.*
+*The following text is taken directly from the [TheOdinProject](https://www.theodinproject.com). It is provided under
+a [Creative Commons License](https://github.com/TheOdinProject/curriculum/blob/main/license.md) which restricts it to
+non-commercial use without prior authorization.*
 
-</td>
-</tr>
-</table>
+> </td>
+> </tr>
+> </table>
 
 ## Iteration 1: initial structure
 
