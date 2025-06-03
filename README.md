@@ -14,7 +14,8 @@ For full instructions for the assignment [click here &rArr;](./assignment.md)
 
 ## Result
 
-For a full live preview of the finished site in all its unimpressive, unstyled glory [click here &rArr;](https://pw80.github.io/odin-recipes/)
+For a full live preview of the finished site in all its unimpressive, unstyled glory
+[click here &rArr;](https://odinprojectassignmentsbypw80.github.io/html-foundations_project-recipes/)
 
 Alternatively, please enjoy this image of an example page:
 
